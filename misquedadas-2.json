@@ -1,13 +1,13 @@
 {
   "server": {
     "port": 8080,
-    "host": "IP de tu servidor"
+    "host": "138.4.18.74"
   },
   "db": {
     "port": 3306,
     "host": "localhost",
     "user": "root",
-    "password": "Clave de la base de datos",
+    "password": "ftel",
     "database": "misquedadas",
     "connectionLimit": 10
   },

@@ -418,89 +418,89 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/app/public/img/ana.jpg": {
+	"/app/public/img/ana.png": {
 		"ft": 16384,
 		"iS": 11295,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/app/public/img/ana.jpg",
+		"oAP": "/app/public/img/ana.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/app/public/img/blas.jpg": {
+	"/app/public/img/blas.png": {
 		"ft": 16384,
 		"iS": 24990,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/app/public/img/blas.jpg",
+		"oAP": "/app/public/img/blas.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/app/public/img/carmen.jpg": {
+	"/app/public/img/carmen.png": {
 		"ft": 16384,
 		"iS": 11474,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/app/public/img/carmen.jpg",
+		"oAP": "/app/public/img/carmen.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/app/public/img/cris.jpg": {
+	"/app/public/img/cris.png": {
 		"ft": 16384,
 		"iS": 620200,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/app/public/img/cris.jpg",
+		"oAP": "/app/public/img/cris.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/app/public/img/dani.jpg": {
+	"/app/public/img/dani.png": {
 		"ft": 16384,
 		"iS": 6745,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/app/public/img/dani.jpg",
+		"oAP": "/app/public/img/dani.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/app/public/img/epi.jpg": {
+	"/app/public/img/epi.png": {
 		"ft": 16384,
 		"iS": 11206,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/app/public/img/epi.jpg",
+		"oAP": "/app/public/img/epi.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/app/public/img/juan.JPG": {
+	"/app/public/img/juan.png": {
 		"ft": 16384,
 		"iS": 106896,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/app/public/img/juan.jpg",
+		"oAP": "/app/public/img/juan.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"/app/public/img/login-background.jpg": {
+	"/app/public/img/login-background.png": {
 		"ft": 16384,
 		"iS": 1787033,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/app/public/img/login-background.jpg",
+		"oAP": "/app/public/img/login-background.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -517,23 +517,23 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/app/public/img/nuria.jpg": {
+	"/app/public/img/nuria.png": {
 		"ft": 16384,
 		"iS": 874068,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/app/public/img/nuria.jpg",
+		"oAP": "/app/public/img/nuria.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/app/public/img/usuario.jpg": {
+	"/app/public/img/usuario.png": {
 		"ft": 16384,
 		"iS": 20401,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/app/public/img/usuario.jpg",
+		"oAP": "/app/public/img/usuario.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2946,7 +2946,7 @@
 		},
 	"languageDefaultsJPG": {
 		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.jpg",
+		"autoOutputPathFilenamePattern": "*.png",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",

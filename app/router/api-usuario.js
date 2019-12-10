@@ -86,7 +86,7 @@ router.get('/', function (req, res) {
             "nombre": "ana",
             "clave": "ana0000",
             "edad": "16",
-            "imagen": "ana.jpg"
+            "imagen": "ana.png"
 
  *       ]
  *     }
@@ -119,7 +119,7 @@ router.get('/:NOMBRE', function (req, res) {
  *     {
  *       "status": "okay",
  *       "imagen": [
-            "imagen": "usuario.jpg"
+            "imagen": "usuario.png"
  *       ]
  *     }
  */

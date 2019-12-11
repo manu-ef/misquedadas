@@ -697,3 +697,14 @@ footer .copyright {
     padding-right: 15;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #1e1f23;
+    --secondary-color: #232428;
+    --text-dark: #efefef;
+    --text: #c4c5c9;
+    --text-light: #6c6d71;
+    --text-lighter: #8e8f93;
+  }
+}

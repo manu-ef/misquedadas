@@ -2,7 +2,8 @@ body {
   padding: 0;
   margin: 0;
   font: 15px "Source Sans Pro", Helvetica, Arial, sans-serif;
-  color: #000000;
+  color: #ededed;
+  background-color: #252525;
   padding-top: 80px;
 }
 
@@ -592,7 +593,7 @@ body#LoginForm {
   margin: auto;
   margin-bottom: 50px;
   text-transform: none;
-  color: #ededed
+  color: #ededed;
 }
 
 .login-container .login-form {

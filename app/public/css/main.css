@@ -110,7 +110,7 @@ nav.flex a i {
   color: #01acff;
 }
 
-nav.nav-icon a i {
+nav.logout-button a i {
   color: #af0404;
 }
 
@@ -375,6 +375,8 @@ nav.flex .user .nombreUsuario {
   padding-top: 20;
   padding-bottom: 15;
   width: 100%;
+  color: #ededed;
+  background-color: #252525;
 }
 
 .lista-asistentes-container .asistente-item {

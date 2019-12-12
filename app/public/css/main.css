@@ -125,7 +125,7 @@ nav.flex .user .nombreUsuario {
   font-size: 20;
   display: inline-block;
   margin-left: 10px;
-  color: #2a3d54;
+  color: #ededed;
 }
 
 @media (min-width: 768px) {
@@ -593,7 +593,7 @@ body#LoginForm {
   margin: auto;
   margin-bottom: 50px;
   text-transform: none;
-  color: #ededed;
+  color: #000000;
 }
 
 .login-container .login-form {
@@ -614,6 +614,7 @@ body#LoginForm {
   font-size: 14px;
   height: 50px;
   line-height: 50px;
+  color: #ededed;
 }
 
 .login-container .login-form .form-group {

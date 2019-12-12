@@ -2,7 +2,7 @@ body {
   padding: 0;
   margin: 0;
   font: 15px "Source Sans Pro", Helvetica, Arial, sans-serif;
-  color: #ffffff;
+  color: $background-color;
   background-color: $background-color;
   padding-top: 80px;
 }

@@ -102,9 +102,16 @@ nav.flex .nav-icon a .nav-tag {
 nav.flex .nav-icon a i {
   flex: 0 0 auto;
   font-size: 20;
-  color: #01acff;
   margin: 0 5;
   transition: all 0.3s ease-out;
+}
+
+nav.flex a i {
+  color: #01acff;
+}
+
+nav.nav-icon a i {
+  color: #af0404;
 }
 
 nav.flex .nav-icon a i.rotated {

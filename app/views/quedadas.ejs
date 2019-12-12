@@ -53,11 +53,11 @@
       <% } %>
       <div class="d-flex flex-row flex-wrap">
         <% for(var i=0; i<asistentes.length; i++) { %>
-          <div class="asistente-item" data-toggle="tooltip" data-placement="right" title='<%= asistentes[i] %>'>
+          <div class="asistente-item" data-toggle="tooltip" data-placement="right" title='<%= asistentes[i][0] %>'>
             <a>
-              <img  src="/img/<%= asistentes[i] %>.png" alt="<%= asistentes[i] %>" title="<%= asistentes[i] %>"><br>
+              <img  src="/img/<%= asistentes[i][1] %>" alt="<%= asistentes[i][0] %>" title="<%= asistentes[i][0] %>"><br>
               <div class="nombreUsuario">
-                <%= asistentes[i] %>
+                <%= asistentes[i][0] %>
               </div>
             </a>
           </div>

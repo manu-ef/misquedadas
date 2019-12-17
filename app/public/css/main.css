@@ -470,7 +470,7 @@ nav.flex .user .nombreUsuario {
   padding: 3px;
   margin-right: 10;
   border: none;
-  background: none;
+  background: #ededed;
 }
 
 .lista-quedadas-container .lista-quedadas a form .check-asiste.fa-check-circle {
@@ -484,11 +484,13 @@ nav.flex .user .nombreUsuario {
 }
 
 .lista-quedadas-container .lista-quedadas a.active .check-asiste {
-  color: #252525;
+  background-color: #252525;
+  color: #ededed;
 }
 
 .lista-quedadas-container .lista-quedadas a.active .check-asiste.fa-check-circle {
-  color: #252525;
+  background-color: #252525;
+  color: #ededed;
 }
 
 @media (min-width: 768px) {

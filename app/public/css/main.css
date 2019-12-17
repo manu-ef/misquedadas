@@ -408,7 +408,6 @@ nav.flex .user .nombreUsuario {
     width: 100vw;
     overflow-x: scroll;
     top: calc(100vw + 80px);
-    background: linear-gradient(to bottom, #f1faff 0%, #ffffff 100%);
   }
   .lista-asistentes-container .asistente-item {
     border-radius: 100%;

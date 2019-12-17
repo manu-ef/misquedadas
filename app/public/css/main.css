@@ -618,6 +618,8 @@ body#LoginForm {
   padding: 40px 50px 40px 50px;
   width: 100vw;
   margin: 0;
+  background-color: #252525;
+  border-radius: 5px;
 }
 
 .login-container .login-form #Login {
@@ -625,7 +627,7 @@ body#LoginForm {
 }
 
 .login-container .login-form .form-control {
-  background: #252525 none repeat scroll 0 0;
+  background: #000000 none repeat scroll 0 0;
   border: 1px solid #ededed;
   border-radius: 4px;
   font-size: 14px;

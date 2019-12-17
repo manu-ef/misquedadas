@@ -481,16 +481,16 @@ nav.flex .user .nombreUsuario {
 .lista-quedadas-container .lista-quedadas a.active {
   background-color: #01acff;
   border-color: #01acff;
-  color: #252525;
+  color: #000000;
 }
 
 .lista-quedadas-container .lista-quedadas a.active .check-asiste {
-  color: #ededed;
+  color: #000000;
 }
 
 .lista-quedadas-container .lista-quedadas a.active .check-asiste.fa-check-circle {
   background-color: #252525;
-  color: #ededed;
+  color: #000000;
 }
 
 @media (min-width: 768px) {

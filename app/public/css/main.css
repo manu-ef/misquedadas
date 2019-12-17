@@ -459,6 +459,7 @@ nav.flex .user .nombreUsuario {
 .lista-quedadas-container .lista-quedadas a {
   font-size: 1.3rem;
   background-color: #252525;
+  color: #ededed;
 }
 
 .lista-quedadas-container .lista-quedadas a form {

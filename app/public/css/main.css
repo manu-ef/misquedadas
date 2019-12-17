@@ -470,7 +470,8 @@ nav.flex .user .nombreUsuario {
   padding: 3px;
   margin-right: 10;
   border: none;
-  background: #ededed;
+  background: none;
+  color: #ededed;
 }
 
 .lista-quedadas-container .lista-quedadas a form .check-asiste.fa-check-circle {

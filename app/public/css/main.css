@@ -452,6 +452,7 @@ nav.flex .user .nombreUsuario {
   overflow-y: scroll;
   padding: 0;
   margin-bottom: 0;
+  background-color: #252525;
 }
 
 .lista-quedadas-container .lista-quedadas a {
@@ -512,6 +513,7 @@ nav.flex .user .nombreUsuario {
 
 .lista-quedadas-container.desplegable .lista-quedadas {
   max-height: 80vh;
+  background-color: #252525;
 }
 
 .lista-quedadas-container.desplegable.scrolled {

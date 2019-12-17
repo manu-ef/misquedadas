@@ -357,8 +357,9 @@ nav.flex .user .nombreUsuario {
 }
 
 .btn.btn-light {
-  color: #2fce6f;
-  background-color: #252525;
+  color: #000000;
+  background-color: #2fce6f;
+  border-color: #2fce6f;
 }
 
 @media (min-width: 576px) {

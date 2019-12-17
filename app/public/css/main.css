@@ -381,6 +381,8 @@ nav.flex .user .nombreUsuario {
 
 .lista-asistentes-container .asistente-item {
   margin-left: 15;
+  color: #ededed;
+  background-color: #252525;
 }
 
 .lista-asistentes-container .asistente-item img {
